@@ -25,5 +25,7 @@ SOAL LATIHAN CONFLICT:
 1. Masuk ke branch develop
 2. Buat branch baru dari branch develop dengan format nama_panggilan-fix-conflict
 3. Silahkan tarik dan fix conflict di branch baru tersebut dengan cara:
-a. git pull origin sumber-conflict
-b. silahkan pilih commit dengan pesan "Pilih perubahan ini"
+- git pull origin sumber-conflict
+- silahkan pilih commit dengan pesan "Pilih perubahan ini"
+- add, commit dan push ke branch nama_panggilan-fix-conflict
+- pull request ke develop
